@@ -1,4 +1,4 @@
-# p85α
+# Assembly and Molecular Architecture of the p85α homodimer
 ## Abstract
 Phosphoinositide 3-kinases (PI3Ks) are a family of lipid kinases that are activated by growth factor and G-protein coupled receptors, and propagate
 intracellular signals for growth, survival, proliferation, and metabolism. p85α, a modular protein consisting of 5 domains, binds and inhibits the enzymatic activity of Class IA PI3Ks. Here, we describe the structural states of the p85α dimer, based on data from in vivo and in vitro solution characterization. Our in vitro assembly and structural analyses have been enabled by the creation of cysteine-free p85α that is functionally equivalent to native p85α. Analytical ultracentrifugation (AUC) studies showed that p85α undergoes rapidly reversible monomer-dimer assembly that is highly exothermic in nature. In addition to the documented SH3-PR1 dimerization interaction, we identified a second intermolecular interaction mediated by cSH2 domains at the C- terminal end of the polypeptide. We have demonstrated in vivo concentration-dependent dimerization of p85α using fluorescence fluctuation spectroscopy (FFS). Finally, we have defined solution conditions under which the protein is predominantly monomeric or dimeric, providing the basis for small angle X-ray scattering (SAXS) and chemical cross-linking structural analysis of the discrete dimer. These experimental data have been used for the integrative structure determination of the p85α dimer. Our study provides new insight into the structure and assembly of the p85α homodimer and suggests that this protein is a highly dynamic molecule whose conformational flexibility allows it to transiently associate with multiple binding proteins.
@@ -54,7 +54,7 @@ _Testable_: Yes.
 
 _Parallelizeable_: Yes
 
-_Publications_:
- - Jaclyn LoPiccolo\*, Seung Joong Kim\*, Yi Shi, Bin Wu, Haiyan Wu, Brian T. Chait, Robert H. Singer, Andrej Sali, Michael Brenowitz, Anne R. Bresnick, and Jonathan M. Backer, [Assembly and Molecular Architecture of the p85α homodimer](http://), Journal of Biological Chemistry, 2015, submitted.
+## Publications
+ - Jaclyn LoPiccolo^1\*, Seung Joong Kim\*, Yi Shi, Bin Wu, Haiyan Wu, Brian T. Chait, Robert H. Singer, Andrej Sali, Michael Brenowitz, Anne R. Bresnick, and Jonathan M. Backer, [Assembly and Molecular Architecture of the p85α homodimer](http://), Journal of Biological Chemistry, 2015, submitted.
 
  \*These authors contributed equally to this work as co-first authors.
