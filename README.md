@@ -55,6 +55,12 @@ _Testable_: Yes.
 _Parallelizeable_: Yes
 
 ## Publications
- - Jaclyn LoPiccolo^1\*, Seung Joong Kim\*, Yi Shi, Bin Wu, Haiyan Wu, Brian T. Chait, Robert H. Singer, Andrej Sali, Michael Brenowitz, Anne R. Bresnick, and Jonathan M. Backer, [Assembly and Molecular Architecture of the p85α homodimer](http://), Journal of Biological Chemistry, 2015, submitted.
+ - Jaclyn LoPiccolo<sup>1</sup>\*, Seung Joong Kim<sup>4</sup>\*, Yi Shi<sup>5</sup>, Bin Wu<sup>3</sup>, Haiyan Wu<sup>1</sup>, Brian T. Chait<sup>5</sup>, Robert H. Singer<sup>3</sup>, Andrej Sali<sup>4</sup>, Michael Brenowitz<sup>2</sup>, Anne R. Bresnick<sup>2</sup>, and Jonathan M. Backer<sup>1,2</sup>, [Assembly and Molecular Architecture of the p85α homodimer](http://), Journal of Biological Chemistry, 2015, submitted.
 
  \*These authors contributed equally to this work as co-first authors.
+ 
+<sup>1</sup>Department of Molecular Pharmacology, <sup>2</sup>Department of Biochemistry, <sup>3</sup>Department of Anatomy and Structural Biology, Albert Einstein College of Medicine, Bronx, NY 10461, USA
+
+<sup>4</sup>Department of Bioengineering and Therapeutic Sciences and Department of Pharmaceutical Chemistry, California Institute for Quantitative Biosciences, Byers Hall, 1700 4th Street, Suite 503B, University of California, San Francisco, San Francisco, CA 94158, USA
+
+<sup>5</sup>Laboratory of Mass Spectrometry and Gaseous Ion Chemistry, The Rockefeller University, New York, NY 10065, USA
