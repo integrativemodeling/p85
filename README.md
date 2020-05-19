@@ -47,7 +47,7 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
 International License.
 
 ## Publications
- - Jaclyn LoPiccolo<sup>1</sup>\*, Seung Joong Kim<sup>4</sup>\*, Yi Shi<sup>5</sup>, Bin Wu<sup>3</sup>, Haiyan Wu<sup>1</sup>, Brian T. Chait<sup>5</sup>, Robert H. Singer<sup>3</sup>, Andrej Sali<sup>4</sup>, Michael Brenowitz<sup>2</sup>, Anne R. Bresnick<sup>2</sup>, and Jonathan M. Backer<sup>1,2</sup>, [Assembly and Molecular Architecture of the p85α homodimer](https://github.com/integrativemodeling/p85/blob/master/LoPiccolo_p85_JBC_Supplement.pdf), Journal of Biological Chemistry, 2015, submitted.
+ - Jaclyn LoPiccolo<sup>1</sup>\*, Seung Joong Kim<sup>4</sup>\*, Yi Shi<sup>5</sup>, Bin Wu<sup>3</sup>, Haiyan Wu<sup>1</sup>, Brian T. Chait<sup>5</sup>, Robert H. Singer<sup>3</sup>, Andrej Sali<sup>4</sup>, Michael Brenowitz<sup>2</sup>, Anne R. Bresnick<sup>2</sup>, and Jonathan M. Backer<sup>1,2</sup>, [Assembly and Molecular Architecture of the p85α homodimer](https://github.com/integrativemodeling/p85/blob/master/LoPiccolo_p85_JBC_Supplement.pdf), Journal of Biological Chemistry, 2015, 290(51):30390-405.
 
  \*These authors contributed equally to this work as co-first authors.
  
