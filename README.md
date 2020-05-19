@@ -42,11 +42,9 @@ _Author(s)_: Seung Joong Kim and Jaclyn LoPiccolo
 
 _Date_: October 7th, 2015
 
-_License_: [LGPL](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
-This library is free software; you can redistribute it and/or
-modify it under the terms of the GNU Lesser General Public
-License as published by the Free Software Foundation; either
-version 2 of the License, or (at your option) any later version.
+_License_: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License.
 
 _Last known good IMP version_: [![build info](https://integrativemodeling.org/systems/?sysstat=6&branch=master)](http://integrativemodeling.org/systems/) [![build info](https://integrativemodeling.org/systems/?sysstat=6&branch=develop)](http://integrativemodeling.org/systems/)
 
